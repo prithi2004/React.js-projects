@@ -8,7 +8,6 @@ A production-ready monorepo that contains **two React apps** and an optional **N
 > Use this as a jumpstart for interview demos, portfolio pieces, or to extend into a full product.
 ---
 ## 🔥 Features
-
 ### Video Chat
 * Peer-to-peer **WebRTC** calls (camera + mic)
 * **Socket.io** signaling (create/join room)
