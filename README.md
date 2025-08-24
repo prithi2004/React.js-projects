@@ -1,5 +1,4 @@
 # React Monorepo: Video Chat + E‑commerce
-
 A production-ready monorepo that contains **two React apps** and an optional **Node/Express signaling server**:
 
 * `apps/video-chat` – WebRTC-based 1:1 video chat with chat, mute/camera controls, and call links.
