@@ -10,7 +10,6 @@ A production-ready monorepo that contains **two React apps** and an optional **N
 ## 🔥 Features
 
 ### Video Chat
-
 * Peer-to-peer **WebRTC** calls (camera + mic)
 * **Socket.io** signaling (create/join room)
 * Toggle **mute/camera**, screen share (optional)
