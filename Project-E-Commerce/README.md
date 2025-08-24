@@ -4,8 +4,6 @@ A fully functional and responsive E-Commerce website built using **React.js**. I
 
 ---
 
-
-
 ## 🧰 Features
 
 - 🛒 Product listing page
