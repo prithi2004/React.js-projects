@@ -55,7 +55,6 @@ cd server
 npm install
 node index.js
 📝 Make sure to run both frontend (localhost:3000) and backend (localhost:5000)
-
 📁 Folder Structure
 pgsql
 Copy
