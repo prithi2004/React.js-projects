@@ -6,7 +6,6 @@ A production-ready monorepo that contains **two React apps** and an optional **N
 * `apps/server` – Socket.io signaling server for WebRTC (dev-friendly, deployable).
 
 > Use this as a jumpstart for interview demos, portfolio pieces, or to extend into a full product.
-
 ---
 ## 🔥 Features
 
