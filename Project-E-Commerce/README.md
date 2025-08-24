@@ -4,12 +4,7 @@ A fully functional and responsive E-Commerce website built using **React.js**. I
 
 ---
 
-## 🚀 Live Demo
 
-👉 [View Live Site](https://your-live-demo-link.com)  
-> *(Optional: Host it with Vercel, Netlify, or GitHub Pages)*
-
----
 
 ## 🧰 Features
 
