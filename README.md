@@ -105,7 +105,6 @@ VITE_SOCKET_URL=http://localhost:5174
 # Optional TURN/STUN (default Google STUN if omitted)
 VITE_ICE_SERVERS=[{"urls":"stun:stun.l.google.com:19302"}]
 ```
-
 **apps/ecommerce/.env**
 
 ```
