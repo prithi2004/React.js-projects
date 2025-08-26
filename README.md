@@ -32,7 +32,6 @@ A production-ready monorepo that contains **two React apps** and an optional **N
 * Ready for **Vercel/Netlify/Render** deploys
 
 ---
-
 ## 🧱 Tech Stack
 
 * React 18, Vite, React Router
