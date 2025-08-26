@@ -4,7 +4,6 @@ A production-ready monorepo that contains **two React apps** and an optional **N
 * `apps/video-chat` – WebRTC-based 1:1 video chat with chat, mute/camera controls, and call links.
 * `apps/ecommerce` – Storefront with product listing, cart, checkout, and admin-ready structure.
 * `apps/server` – Socket.io signaling server for WebRTC (dev-friendly, deployable).
-
 > Use this as a jumpstart for interview demos, portfolio pieces, or to extend into a full product.
 ---
 ## 🔥 Features
