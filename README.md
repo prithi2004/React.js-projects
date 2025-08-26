@@ -191,7 +191,6 @@ io.on("connection", (socket) => {
   socket.on("signal", ({ roomId, data }) => {
     socket.to(roomId).emit("signal", { from: socket.id, data });
   });
-
   socket.on("disconnecting", () => {
     [...socket.rooms].forEach((roomId) => {
       if (roomId !== socket.id) socket.to(roomId).emit("peer:left", socket.id);
