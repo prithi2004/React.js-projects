@@ -102,7 +102,6 @@ VITE_SOCKET_URL=http://localhost:5174
 VITE_ICE_SERVERS=[{"urls":"stun:stun.l.google.com:19302"}]
 ```
 **apps/ecommerce/.env**
-
 ```
 VITE_API_BASE_URL=http://localhost:5175/api
 # Optional Stripe public key (if enabling live checkout)
