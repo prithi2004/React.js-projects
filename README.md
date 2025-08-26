@@ -96,7 +96,6 @@ yarn install
 Create `.env` files in each app.
 
 **apps/video-chat/.env**
-
 ```
 VITE_SOCKET_URL=http://localhost:5174
 # Optional TURN/STUN (default Google STUN if omitted)
