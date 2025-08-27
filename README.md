@@ -122,7 +122,6 @@ pnpm --filter @app/video-chat dev
 # in another terminal: run ecommerce app
 pnpm --filter @app/ecommerce dev
 ```
-
 > Defaults: ecommerce at `http://localhost:5173`, video-chat at `http://localhost:5174` or `5176` depending on your Vite ports; server at `http://localhost:5174` (configurable).
 
 ### 4) Build
