@@ -179,7 +179,6 @@ app.use(cors({ origin: process.env.CORS_ORIGIN || "*" }));
 
 const httpServer = createServer(app);
 const io = new Server(httpServer, { cors: { origin: process.env.CORS_ORIGIN || "*" } });
-
 io.on("connection", (socket) => {
   socket.on("join", (roomId) => {
     socket.join(roomId);
