@@ -15,13 +15,11 @@ A production-ready monorepo that contains **two React apps** and an optional **N
 * Basic call **stats** (bitrate/latency) via `getStats` (optional toggle)
 
 ### E‑commerce
-
 * Home, Product list, Product details
 * **Cart** (Redux Toolkit), **Checkout** flow (mock or Stripe)
 * Search, filters, sorting
 * Responsive UI (Tailwind), reusable components
 * API-ready data layer; swap mock API with real backend easily
-
 ### DX / Monorepo
 
 * **Vite** for fast dev/build
