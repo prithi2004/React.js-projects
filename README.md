@@ -192,7 +192,6 @@ io.on("connection", (socket) => {
     });
   });
 });
-
 app.get("/health", (_, res) => res.json({ ok: true }));
 
 const port = Number(process.env.PORT || 5174);
