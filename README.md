@@ -70,7 +70,6 @@ A production-ready monorepo that contains **two React apps** and an optional **N
 ```
 
 ---
-
 ## 🚀 Getting Started
 
 ### 1) Clone & install
