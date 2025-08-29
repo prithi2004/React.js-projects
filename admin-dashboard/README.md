@@ -32,8 +32,6 @@ Deployment: Vercel / Netlify / GitHub Pages
 
 (https://react-js-projects-825x.vercel.app/)
 
-
-
 Analytics Page
 
 📂 Folder Structure
