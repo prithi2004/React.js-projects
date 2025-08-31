@@ -27,7 +27,6 @@ A production-ready monorepo that contains **two React apps** and an optional **N
 * ESLint + Prettier
 * Git hooks with lint-staged (optional)
 * Ready for **Vercel/Netlify/Render** deploys
-
 ---
 ## 🧱 Tech Stack
 
