@@ -202,7 +202,6 @@ Client emits:
 * `signal` with `{ roomId, data }` (SDP offers/answers & ICE candidates)
 
 ---
-
 ## 🔗 Example Routes and Pages
 
 ### Ecommerce
