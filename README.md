@@ -20,7 +20,6 @@ A production-ready monorepo that contains **two React apps** and an optional **N
 * Responsive UI (Tailwind), reusable components
 * API-ready data layer; swap mock API with real backend easily
 ### DX / Monorepo
-
 * **Vite** for fast dev/build
 * **pnpm** workspaces (supports npm/yarn too)
 * TypeScript-ready (can run JS only if preferred)
