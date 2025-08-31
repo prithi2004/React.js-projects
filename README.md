@@ -85,7 +85,6 @@ npm install
 # or
 yarn install
 ```
-
 ### 2) Environment variables
 
 Create `.env` files in each app.
