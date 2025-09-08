@@ -15,8 +15,6 @@ A fully functional and responsive E-Commerce website built using **React.js**. I
 - ⚛️ Clean component structure
 
 ---
-
-
 <img width="2372" height="583" alt="image" src="https://github.com/user-attachments/assets/67821581-519a-47c8-9e27-1e018e3bf146" />
 
 
