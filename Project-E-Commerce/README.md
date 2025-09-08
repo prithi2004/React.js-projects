@@ -1,7 +1,6 @@
 # 🛍️ E-Commerce Website (React.js)
 
 A fully functional and responsive E-Commerce website built using **React.js**. It allows users to browse products, add items to cart, and manage checkout — making it a great foundation for any online store project.
-
 ---
 
 ## 🧰 Features
