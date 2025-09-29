@@ -51,3 +51,9 @@ npm install
 4. Start the development server:
 
 npm start
+5.Open your browser and go to:
+
+http://localhost:3000
+
+
+Repeat the above steps for the other projects by navigating to their respective directories.
