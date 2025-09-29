@@ -65,3 +65,28 @@ React.js-projects/
 │   └── package.json
 │── Project-video-chat/
 │── README.md
+🤝 Contribution
+
+Contributions are welcome! To contribute:
+
+Fork the repository
+
+Create a new branch (git checkout -b feature/your-feature)
+
+Commit your changes (git commit -am 'Add new feature')
+
+Push to the branch (git push origin feature/your-feature)
+
+Create a new Pull Request
+
+📜 License
+
+This project is licensed under the MIT License – feel free to use and modify.
+
+👨‍💻 Author
+
+Prithi Babu
+
+GitHub: @prithi2004
+
+LinkedIn: Prithi Babu
