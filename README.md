@@ -57,3 +57,11 @@ http://localhost:3000
 
 
 Repeat the above steps for the other projects by navigating to their respective directories.
+📂 Project Structure
+React.js-projects/
+│── Project-E-Commerce/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│── Project-video-chat/
+│── README.md
