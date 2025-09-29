@@ -45,3 +45,6 @@ To run these projects locally:
 2.Navigate to the desired project directory:
 
 cd Project-E-Commerce
+3.Install dependencies:
+
+npm install
