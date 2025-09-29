@@ -48,3 +48,6 @@ cd Project-E-Commerce
 3.Install dependencies:
 
 npm install
+4. Start the development server:
+
+npm start
