@@ -42,3 +42,6 @@ To run these projects locally:
    ```bash
    git clone https://github.com/prithi2004/React.js-projects.git
    cd React.js-projects
+2.Navigate to the desired project directory:
+
+cd Project-E-Commerce
