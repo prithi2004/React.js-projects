@@ -3,7 +3,6 @@
 This repository showcases a collection of React.js projects developed to solve real-world problems and demonstrate proficiency in modern front-end development. Each project incorporates various tech stacks and addresses practical challenges.
 
 ---
-
 ## 🧩 Projects Overview
 
 ### 1. **Project E-Commerce**
