@@ -57,6 +57,7 @@ cd admin-dashboard
 Install dependencies
 
 npm install
+
 Run the development server
 
 npm start
