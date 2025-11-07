@@ -72,7 +72,6 @@ You can modify this structure based on your own implementation.
 Prithi B
 GitHub
 LinkedIn
-
 📣 Feedback and Contributions
 Feel free to fork this repo, open issues, and submit pull requests to contribute. Suggestions are always welcome!
 
